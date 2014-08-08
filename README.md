@@ -42,6 +42,6 @@ REST API
 
 Hardware
 --------
-Arduino Board
-USB cable
-LED + 120 Ohm resistor
+- Arduino Board
+- USB cable
+- LED + 120 Ohm resistor
