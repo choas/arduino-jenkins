@@ -23,13 +23,12 @@ Firmata
 -------
 http://www.firmata.org/wiki/Main_Page
 
+- npm install serialport
+- npm install firmata
 
-npm install serialport
-npm install firmata
-
-npm install request
-npm install JSONStream
-npm install event-stream
+- npm install request
+- npm install JSONStream
+- npm install event-stream
 
 
 
